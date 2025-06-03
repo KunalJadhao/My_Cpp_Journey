@@ -5,7 +5,7 @@ using namespace std;
 class vehicle{
 public:
 void start(){
-    cout<<" echicle started"<<endl;
+    cout<<" vechicle started"<<endl;
 }
 };
 

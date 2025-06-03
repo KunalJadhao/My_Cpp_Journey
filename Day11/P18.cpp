@@ -17,17 +17,7 @@ int main(){
     counterfunction();
     counterfunction();
     counterfunction();
-    counterfunction();
-    counterfunction();
-    counterfunction();
-    counterfunction();
-    counterfunction();
-    counterfunction();
-    counterfunction();
-    counterfunction();
-    counterfunction();
-    counterfunction();
-    counterfunction();
+    
     
     return 0;
 }
